@@ -1,0 +1,1 @@
+(self.webpackChunksplitcode=self.webpackChunksplitcode||[]).push([[884],{162:()=>{const e=document.createElement("div");e.innerHTML="我是异步加载的",document.body.appendChild(e)}}]);
